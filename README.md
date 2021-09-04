@@ -1,7 +1,11 @@
-# Overview 
-This course, "AWS Certified Developer Complete Video Course" focuses on the role-based certification, AWS Developer Associate.  According to Amazon, “this exam validates proficiency in developing, deploying, and debugging cloud-based applications using AWS.” Amazon Web Services currently has over 130 individual services available for use.  Each service falls into an overarching category such as compute, storage, database, networking, etc.  The AWS Developer Associate focuses on those services and concepts relevant to developers using, or intending to use, AWS services to create their applications.  This course covers the published blueprint for the Associate level Certified Developer exam.  
+# Forked Repo
 
-**It’s important to note that this course is not intended to teach you to how program or develop applications.  The goal is to help you understand the services that are available to run the applications you develop through live demonstration.**  Each lesson begins with a walk-through to provide an overview of the topic and then goes into demonstration mode.  The majority of the  demonstrations in this course are accomplished with a free AWS Trial Account so you can follow along.
+**ATTENTION this was forked from https://bitbucket.org/awsdevguru/awsdevassoc/src/master/ as-is**.
+
+# Overview 
+This course, "AWS Certified Developer Complete Video Course" focuses on the role-based certification, AWS Developer Associate.  According to Amazon, this exam validates proficiency in developing, deploying, and debugging cloud-based applications using AWS. Amazon Web Services currently has over 130 individual services available for use.  Each service falls into an overarching category such as compute, storage, database, networking, etc.  The AWS Developer Associate focuses on those services and concepts relevant to developers using, or intending to use, AWS services to create their applications.  This course covers the published blueprint for the Associate level Certified Developer exam.  
+
+**Its important to note that this course is not intended to teach you to how program or develop applications.  The goal is to help you understand the services that are available to run the applications you develop through live demonstration.**  Each lesson begins with a walk-through to provide an overview of the topic and then goes into demonstration mode.  The majority of the  demonstrations in this course are accomplished with a free AWS Trial Account so you can follow along.
 
 ## Topics include: 
 
@@ -32,7 +36,7 @@ This course, "AWS Certified Developer Complete Video Course" focuses on the role
 
 **Module 5 Execution Services**  
 
-* Lesson 14 Lambda – Serverless Compute  
+* Lesson 14 Lambda  Serverless Compute  
 * Lesson 15 Elastic Beanstalk  
 * Lesson 16 Kinesis  
 * Lesson 17 API Gateway  
